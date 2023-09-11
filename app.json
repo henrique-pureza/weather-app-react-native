@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "WeatherApp React Native",
+    "slug": "weather-app-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./public/favicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./public/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#222233"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./public/favicon.png",
+        "backgroundColor": "#222233"
+      },
+      "package": "com.thehenrique2006.weatherappreactnative"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc417dbe-c805-4957-bf39-7df62426d5a3"
+      }
+    }
+  }
+}

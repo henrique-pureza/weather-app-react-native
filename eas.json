@@ -1,0 +1,10 @@
+{
+    "build": {
+        "alpha": {
+            "android": {
+                "buildType": "apk",
+                "gradleCommand": ":app:assembleRelease"
+            }
+        }
+    }
+}
